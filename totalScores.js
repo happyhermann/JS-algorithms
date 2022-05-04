@@ -25,4 +25,4 @@ function points(games) {
     points(matchDay);
     console.log(points(matchDay));
 
-    //sed
+    //sedasdfasdfadssadfasfs
